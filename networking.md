@@ -20,7 +20,7 @@ v4 /16 range | v6 /56 range | description
 `10.196.0.0/16` | `fd00:bad:bed:c400::/56` | External servers
 `10.197.0.0/16` | `fd00:bad:bed:c500::/56` | External servers
 `10.198.0.0/16` | `fd00:bad:bed:c600::/56` | 
-`10.199.0.0/16` | `fd00:bad:bed:c700::/56` | 
+`10.199.0.0/16` | `fd00:bad:bed:c700::/56` | Test networks
 `10.200.0.0/16` | `fd00:bad:bed:c800::/56` | RESERVED
 `10.201.0.0/16` | `fd00:bad:bed:c900::/56` | Client terminals (e.g. Wi-Fi)
 `10.202.0.0/16` | `fd00:bad:bed:ca00::/56` | Client terminals
