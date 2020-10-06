@@ -3,7 +3,7 @@
 ## IPv6
 
 - Use NAT.
-- Unique local address ranges `fd00:bad:bed::/48`.
+- We use the unique local address range: `fd00:bad:bed::/48`.
 
 ## IPv4
 
