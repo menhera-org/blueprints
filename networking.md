@@ -25,7 +25,7 @@ v4 /16 range | v6 /56 range | description
 `10.199.0.0/16` | `fd00:bad:bed:c700::/56` | On-premise: HQ1 networks
 ||
 `10.200.0.0/16` | `fd00:bad:bed:c800::/56` | Inter-site links
-`10.201.0.0/16` | `fd00:bad:bed:c900::/56` | Client VPN links
+`10.201.0.0/16` | `fd00:bad:bed:c900::/56` | 
 ||
 `10.202.0.0/16` | `fd00:bad:bed:ca00::/56` | Cloud: EU1 networks
 `10.203.0.0/16` | `fd00:bad:bed:cb00::/56` | Cloud: JP1 networks
