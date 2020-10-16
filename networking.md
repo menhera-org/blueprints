@@ -10,6 +10,8 @@
 - All organizational networks sit inside `10.192.0.0/12`.
 - This does not include guest networks (`172.20.0.0/16`).
 - Subnets from `/24` to `/16`.
+- External (PUBLIC) networks: `x.x.0.0/17`
+- Internal (PROTECTED) networks: `x.x.128.0/17`
 
 v4 /16 range | v6 /56 range | description
 -------------|--------------|------------
