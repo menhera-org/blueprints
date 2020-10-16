@@ -13,16 +13,18 @@
 
 v4 /16 range | v6 /56 range | description
 -------------|--------------|------------
-`10.192.0.0/16` | `fd00:bad:bed:c000::/56` | Core networks
-`10.193.0.0/16` | `fd00:bad:bed:c100::/56` | Inter-site links
-`10.194.0.0/16` | `fd00:bad:bed:c200::/56` | Internal servers
-`10.195.0.0/16` | `fd00:bad:bed:c300::/56` | External servers
+`10.192.0.0/16` | `fd00:bad:bed:c000::/56` | RESERVED
+`10.193.0.0/16` | `fd00:bad:bed:c100::/56` | 
+`10.194.0.0/16` | `fd00:bad:bed:c200::/56` | Internal servers networks
+`10.195.0.0/16` | `fd00:bad:bed:c300::/56` | External servers networks
 `10.196.0.0/16` | `fd00:bad:bed:c400::/56` | Site-local networks
 `10.197.0.0/16` | `fd00:bad:bed:c500::/56` | 
-`10.198.0.0/16` | `fd00:bad:bed:c600::/56` | 
-`10.199.0.0/16` | `fd00:bad:bed:c700::/56` | Test networks
-`10.200.0.0/16` | `fd00:bad:bed:c800::/56` | RESERVED
-`10.201.0.0/16` | `fd00:bad:bed:c900::/56` | RESERVED
+`10.198.0.0/16` | `fd00:bad:bed:c600::/56` | Core networks
+`10.199.0.0/16` | `fd00:bad:bed:c700::/56` | Inter-site links
+||
+`10.200.0.0/16` | `fd00:bad:bed:c800::/56` | Administrative purposes
+`10.201.0.0/16` | `fd00:bad:bed:c900::/56` | Test networks
+||
 `10.202.0.0/16` | `fd00:bad:bed:ca00::/56` | Local client terminals (e.g. Wi-Fi)
 `10.203.0.0/16` | `fd00:bad:bed:cb00::/56` | 
 `10.204.0.0/16` | `fd00:bad:bed:cc00::/56` | Client VPN links
