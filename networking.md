@@ -27,9 +27,9 @@ v4 /16 range | v6 /56 range | description
 `10.200.0.0/16` | `fd00:bad:bed:c800::/56` | Inter-site links
 `10.201.0.0/16` | `fd00:bad:bed:c900::/56` | 
 ||
-`10.202.0.0/16` | `fd00:bad:bed:ca00::/56` | Cloud: EU1 networks
-`10.203.0.0/16` | `fd00:bad:bed:cb00::/56` | Cloud: JP1 networks
-`10.204.0.0/16` | `fd00:bad:bed:cc00::/56` | Cloud: US1 networks
+`10.202.0.0/16` | `fd00:bad:bed:ca00::/56` | Cloud: EU1 networks (unassigned)
+`10.203.0.0/16` | `fd00:bad:bed:cb00::/56` | Cloud: JP1 networks (assigned, AWS)
+`10.204.0.0/16` | `fd00:bad:bed:cc00::/56` | Cloud: US1 networks (unassigned)
 `10.205.0.0/16` | `fd00:bad:bed:cd00::/56` | 
 `10.206.0.0/16` | `fd00:bad:bed:ce00::/56` | 
 `10.207.0.0/16` | `fd00:bad:bed:cf00::/56` | 
