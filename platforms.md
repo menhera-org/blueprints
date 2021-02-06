@@ -6,6 +6,8 @@
 - Can turn on notifications on every feed.
 - Deny the idea of "followers".
 - Location sharing.
+- Manage channel messages (versions) on a distributed manner.
+- File storage.
 
 ## Requirements
 - Division of backend and frontend.
