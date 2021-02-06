@@ -7,7 +7,7 @@
 - Deny the idea of "followers".
 - Location sharing.
 - Manage channel messages (versions) on a distributed manner. cf. Git
-- File storage. cf. IFPS
+- File storage. cf. IPFS
 - Various layers of protocol: messaging protocol, distribuetd storage, channels and domains.
 
 ## Requirements
