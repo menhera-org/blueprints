@@ -5,6 +5,7 @@
 - Frontend: notification-triggered alarms.
 - Can turn on notifications on every feed.
 - Deny the idea of "followers".
+- Location sharing.
 
 ## Requirements
 - Division of backend and frontend.
