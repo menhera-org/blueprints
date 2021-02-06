@@ -1,7 +1,7 @@
 # Platforms
 
 ## Ideas
-- Abstract and integrate the main features of: Slack+Discord+Twitter+LINE+Twitter+wiki+blog.
+- Abstract and integrate the main features of: Slack+Discord+Twitter+LINE+Twitter+wiki+blog+Git.
 - Frontend: notification-triggered alarms.
 - Can turn on notifications on every feed.
 - Deny the idea of "followers".
