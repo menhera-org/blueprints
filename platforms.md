@@ -6,8 +6,9 @@
 - Can turn on notifications on every feed.
 - Deny the idea of "followers".
 - Location sharing.
-- Manage channel messages (versions) on a distributed manner.
-- File storage.
+- Manage channel messages (versions) on a distributed manner. cf. Git
+- File storage. cf. IFPS
+- Various layers of protocol: messaging protocol, distribuetd storage, channels and domains.
 
 ## Requirements
 - Division of backend and frontend.
