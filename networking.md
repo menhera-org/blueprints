@@ -36,9 +36,12 @@ v4 /16 range | v6 /56 range | description
 -- |
 `172.20.0.0/16` | `fd00:bad:bed:1400::/56` | Guest networks
 
+## Inter-site link
+peer 1 | peer 2 | comment
+-------|--------|------
+tsuchiura: 10.200.101.1/24 | voyager1: 10.200.101.2/24 | Tsuchiura <-> Jichikai (L3 tunnel)
 
-
-## VPN
+## Client VPN
 
 - Exit from each location participating in the network
 - Unblocked exit node in North America?
