@@ -36,6 +36,14 @@ v4 /16 range | v6 /56 range | description
 -- |
 `172.20.0.0/16` | `fd00:bad:bed:1400::/56` | Guest networks
 
+## Specific networks
+### NTT East NGN
+host | description
+-----|------------
+tsuchiura.i.open.ad.jp | router at Tsuchiura (Raspberry Pi 4)
+voyager1.i.open.ad.jp | rouetr at Jichikai (Raspberry Pi 3)
+
+
 ## Inter-site link
 peer 1 | peer 2 | comment
 -------|--------|------
