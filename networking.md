@@ -39,7 +39,7 @@ v4 /16 range | v6 /56 range | description
 ## Inter-site link
 peer 1 | peer 2 | comment
 -------|--------|------
-tsuchiura: 10.200.101.1/24 | voyager1: 10.200.101.2/24 | Tsuchiura <-> Jichikai (L3 tunnel)
+tsuchiura: `10.200.101.1/24` | voyager1: `10.200.101.2/24` | Tsuchiura <-> Jichikai (L3 tunnel)
 
 ## Client VPN
 
