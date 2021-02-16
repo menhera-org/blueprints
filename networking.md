@@ -20,7 +20,7 @@ v4 /16 range | v6 /56 range | description
 `10.194.0.0/16` | `fd00:bad:bed:c200::/56` | 
 `10.195.0.0/16` | `fd00:bad:bed:c300::/56` | 
 `10.196.0.0/16` | `fd00:bad:bed:c400::/56` | 
-`10.197.0.0/16` | `fd00:bad:bed:c500::/56` | 
+`10.197.0.0/16` | `fd00:bad:bed:c500::/56` | On-premise: Remoet 2 (voyager1) networks
 `10.198.0.0/16` | `fd00:bad:bed:c600::/56` | On-permise: Remote 1 networks
 `10.199.0.0/16` | `fd00:bad:bed:c700::/56` | On-premise: HQ1 networks
 ||
