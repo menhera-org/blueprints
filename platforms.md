@@ -8,7 +8,7 @@
 - Location sharing.
 - Manage channel messages (versions) on a distributed manner. cf. Git
 - File storage. cf. IPFS
-- Various layers of protocol: messaging protocol, distribuetd storage, channels and domains.
+- Various layers of protocol: messaging protocol, distribuetd storage (content-addressable storage), channels and domains.
 
 ## Requirements
 - Division of backend and frontend.
