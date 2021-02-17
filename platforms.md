@@ -13,6 +13,7 @@
 ## Requirements
 - Division of backend and frontend.
 - Tor Browser compatibility (`privacy.resistFingerprinting`, first-party isolation, no WASM). [Really needed?]
+- ServiceWorkers may not be available (private tabs on Firefox or iOS WebView).
 - Fully JavaScript-based (altJS such as PureScript?)
 - Frontend clients/UAs are Web-based.
   - Webextension version.
