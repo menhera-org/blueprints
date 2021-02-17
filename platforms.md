@@ -12,7 +12,7 @@
 
 ## Requirements
 - Division of backend and frontend.
-- Tor Browser compatibility (`privacy.resistFingerprinting`, first-party isolation, no WASM).
+- Tor Browser compatibility (`privacy.resistFingerprinting`, first-party isolation, no WASM). [Really needed?]
 - Fully JavaScript-based (altJS such as PureScript?)
 - Frontend clients/UAs are Web-based.
   - Webextension version.
